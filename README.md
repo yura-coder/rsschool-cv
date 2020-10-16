@@ -28,3 +28,10 @@ https://yura-coder.github.io/rsschool-cv/cv
 *  Git _basic_
 
 ***
+
+##  Образование:
+
+1. БПИ:
+    *Машиностроиттельный факультет.
+
+***
