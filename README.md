@@ -1,43 +1,42 @@
 # rsschool-cv
-https://yura-coder.github.io/rsschool-cv/cv
 
-#  Юрий  Шелепков
-
-***
-
-##  Контактная  информация:
-
-электронная почта:  shelepkovyura@gmail.com
-
-тел.+375000000000
+#  Yury Shelepkov
 
 ***
 
-##  Обо  мне:
+##  Contact info:
 
-Я  разработчик  программногообеспечения  для  станков  с  ЧПУ.
+[**e-mail:*shelepkovyura@gmail.com***](mailto:shelepkovyura@gmail.com)
+
+[**tel *+375 00 000 00 00***](tel:+375000000000)
 
 ***
 
-##  Мои  навыки:
+##  About me:
 
-* __C__ _средний_
-* __HTML__ _базовый_
-* __CSS__ _базовый_
-* __JS__ _базовый_
+I am a software developer for CNC machine tools.
+
+***
+
+##  My skills:
+
+* __C__ _intermediate_
+* __HTML__ _basic_
+* __CSS__ _basic_
+* __JS__ _basic_
 * __Git__ _basic_
 
 ***
 
-##  Образование:
+##  Education:
 
-* __БПИ__:
-    * Машиностроительный факультет.
+* __BPI__:
+    * Faculty of Mechanical Engineering.
 
 ***
 
-##  Языки:
+##  Languages:
 
-* _Английский_ __A0__
-* _Русский_ __B2__
-* _Белорусский_ __A2__
+* _English_ __A0__
+* _Russian_ __B2__
+* _Belarussian_ __A2__
