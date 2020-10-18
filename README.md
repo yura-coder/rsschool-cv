@@ -8,7 +8,7 @@
 
 [**e-mail:*shelepkovyura@gmail.com***](mailto:shelepkovyura@gmail.com)
 
-[**tel:*+375 00 000 00 00***](tel:+375000000000)
+[**tel*+375 00 000 00 00***](tel:+375000000000)
 
 ***
 
