@@ -1,2 +1,2 @@
 # rsschool-cv
-https://yura-coder.github.io/rsschool-cv/cv
+https://yura-coder.github.io/rsschool-cv/
